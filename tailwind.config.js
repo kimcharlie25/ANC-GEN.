@@ -4,8 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
+        primary: '#ee6924',
+        secondary: '#000000',
+        background: '#ffffff',
         ramen: {
-          red: '#D7263D',
+          red: '#ee6924',
           dark: '#0B0A0A',
           charcoal: '#111113',
           cream: '#FFF3E0',
@@ -17,6 +20,8 @@ export default {
         }
       },
       fontFamily: {
+        'heading': ['Montserrat', 'sans-serif'],
+        'body': ['Open Sans', 'Roboto', 'sans-serif'],
         'pretendard': ['Pretendard', 'system-ui', 'sans-serif'],
         'noto-kr': ['Noto Serif KR', 'serif']
       },

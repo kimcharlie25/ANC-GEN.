@@ -12,10 +12,11 @@ const Footer: React.FC = () => {
             <div className="flex items-start space-x-3">
               <Store className="h-5 w-5 text-primary flex-shrink-0 mt-1" />
               <div>
-                <p className="font-medium text-black mb-2">Alan Nacor Cabalquinto</p>
+                <p className="font-medium text-black mb-2">ANC GEN. FORWARDERS  Main Branch
+                </p>
                 <p className="text-sm text-black flex items-start">
                   <MapPin className="h-4 w-4 text-primary mr-1 flex-shrink-0 mt-0.5" />
-                  <span>Pob. 1 Sumil Street, Porok 3, Basud, Camarines Norte</span>
+                  <span>SUMIL STREET BASUD CAMARUNES NORTE</span>
                 </p>
               </div>
             </div>

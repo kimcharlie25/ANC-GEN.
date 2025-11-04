@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
                 </p>
                 <p className="text-sm text-black flex items-start">
                   <MapPin className="h-4 w-4 text-primary mr-1 flex-shrink-0 mt-0.5" />
-                  <span>SUMIL STREET BASUD CAMARUNES NORTE</span>
+                  <span>SUMIL STREET BASUD CAMARINES NORTE</span>
                 </p>
               </div>
             </div>
@@ -34,11 +34,11 @@ const Footer: React.FC = () => {
                 <span className="font-body">09569254324</span>
               </a>
               <a 
-                href="mailto:Cabalquintoalan270@gmail.com" 
+                href="tel:09691175819" 
                 className="flex items-center space-x-3 text-black hover:text-primary transition-colors duration-200 group"
               >
-                <Mail className="h-5 w-5 text-primary group-hover:scale-110 transition-transform duration-200" />
-                <span className="font-body break-all">Cabalquintoalan270@gmail.com</span>
+                <Phone className="h-5 w-5 text-primary group-hover:scale-110 transition-transform duration-200" />
+                <span className="font-body">09691175819</span>
               </a>
             </div>
           </div>
